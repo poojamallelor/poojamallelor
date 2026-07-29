@@ -215,11 +215,11 @@ Flutter • Firebase
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/pooja-mallelor-a1a526318/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BNWDCMA%2FmQDiNoQyCkGs0jQ%3D%3D">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:poojamallelor@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
