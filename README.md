@@ -1,63 +1,101 @@
-# 👋 Hi, I'm **Pooja Mallelor**
+````md
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Java+Backend+Developer+%F0%9F%92%9C;Spring+Boot+%7C+REST+API+Developer;Final+Year+B.Tech+Student;Always+Learning+%E2%9C%A8+Always+Building+%F0%9F%9A%80" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF,9D4EDD,C77DFF&height=220&section=header&text=Pooja%20Mallelor&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20React%20Developer&descAlignY=58"/>
+
+# 👋 Hi, I'm Pooja Mallelor
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;React+Developer;REST+API+Developer;Problem+Solver;AI+%26+ML+Enthusiast;Always+Learning+Something+New+🚀"/>
+
+<p>
+<img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=poojamallelor&style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/github/followers/poojamallelor?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/poojamallelor?style=for-the-badge"/>
 </p>
 
+</div>
 
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=8A2BE2&section=header"/>
-
-# 💫 About Me
+# 💜 About Me
 
 ```java
-class Developer {
-
-    String name = "Pooja Mallelor";
+public class Pooja {
 
     String role = "Java Backend Developer";
 
     String education = "Final Year B.Tech Student";
 
-    String[] skills = {
+    String passion = "Building scalable backend applications";
+
+    String[] techStack = {
         "Java",
         "Spring Boot",
-        "JDBC",
-        "SQL",
         "React",
-        "REST APIs"
+        "REST APIs",
+        "MySQL",
+        "JDBC"
     };
 
-    String goal = "Build scalable software that impacts millions.";
+    void life(){
+
+        while(true){
+
+            learn();
+
+            build();
+
+            debug();
+
+            improve();
+
+        }
+
+    }
 
 }
-```
+````
 
-## 🚀 Currently Working On
+💜 Java Backend Developer passionate about designing scalable applications.
 
-* 🌱 Mastering Spring Boot
-* ☁️ Learning Docker & AWS
-* 📚 Data Structures & Algorithms
-* ⚡ Backend System Design
-* 💻 Building Full Stack Applications
+🚀 Skilled in Java, Spring Boot, React, JDBC, REST APIs and MySQL.
+
+📚 Currently exploring Microservices, Docker, AWS and System Design.
+
+💡 I love solving real-world problems through technology.
+
+🎯 Looking for Software Engineer / Java Backend opportunities.
 
 ---
 
-# 🏆 Achievements
+# 🛠 Tech Stack
 
-🥇 Winner — Build & Beyond Website Competition
+<div align="center">
 
-🏆 Top 5 Finalist — GDG Hack-AI-Thon
+<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,html,css,js,git,github,maven,postman,docker,vscode,idea,python,firebase"/>
 
-📄 Published Research Paper
+</div>
 
-💡 Patent Filed
+---
 
-🥈 NPTEL Programming in Java (Silver)
+# ☕ Java Backend Skills
 
-🏅 NPTEL DBMS (Elite)
+<p align="center">
 
-⭐ HackerRank Java 5★
+<img src="https://img.shields.io/badge/Core%20Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JDBC-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST%20API-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql"/>
+
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven"/>
+
+</p>
 
 ---
 
@@ -65,89 +103,87 @@ class Developer {
 
 ## 🧠 Learning Disability Detection System
 
-Machine Learning based system for detecting learning disabilities using interactive assessment modules.
+> AI-powered platform for detecting learning disabilities using machine learning and interactive assessment modules.
 
-**Tech Stack**
-
-React • Flask • Python • SQL • Machine Learning
+**Tech:** React • Flask • Python • Machine Learning • SQL
 
 ---
 
 ## 🤖 CareerPilot AI
 
-AI-powered career guidance platform with resume analysis and interview preparation.
+> AI-powered career guidance platform with resume analysis and interview preparation.
+
+**Tech:** React • AI • JavaScript
 
 ---
 
 ## 💳 Bank Management System
 
-Java • Spring Boot • REST APIs • MySQL
+> Full Stack Banking Application with authentication and secure database operations.
+
+**Tech:** Java • Spring Boot • MySQL • REST APIs
 
 ---
 
 ## 🛒 E-Commerce Backend
 
-Spring Boot • JWT Authentication • REST APIs • MySQL
+> Backend application with JWT authentication, role-based access and REST APIs.
+
+**Tech:** Spring Boot • MySQL • JWT • REST APIs
 
 ---
 
 ## 👩 Women Safety Application
 
-Flutter • Firebase
+> Mobile application for emergency safety and live location sharing.
+
+**Tech:** Flutter • Firebase
 
 ---
 
-# 💻 Tech Stack
+# 🏆 Achievements
 
-<p align="center">
+🏆 Top 5 Finalist — GDG Hack-AI-Thon
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,react,html,css,js,git,github,maven,docker,postman,idea,vscode,python,firebase"/>
+🥇 Winner — Build & Beyond Website Competition
 
-</p>
+📄 Research Paper Published
 
----
+💡 Patent Filed
 
-# ☕ Java Ecosystem
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Core%20Java-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OOP-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/JDBC-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Servlet-green?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/JSP-purple?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Spring%20Boot-brightgreen?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/REST%20API-blueviolet?style=for-the-badge"/>
-
-</p>
+⭐ HackerRank Java — 5★
 
 ---
 
-# 📊 GitHub Statistics
+# 📜 Certifications
+
+🥈 NPTEL Programming in Java — Silver (Top 1%)
+
+🏅 NPTEL Database Management Systems — Elite
+
+🎓 Generative AI Workshop
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=poojamallelor&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=poojamallelor&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=poojamallelor&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojamallelor&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojamallelor&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
 <p align="center">
 
@@ -161,13 +197,15 @@ Flutter • Firebase
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=poojamallelor&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=poojamallelor&theme=tokyonight&column=4&no-frame=true&margin-w=15"/>
 
 </p>
 
 ---
 
 # 🐍 Contribution Snake
+
+> **After creating the GitHub Action, replace the link below with your generated snake image.**
 
 <p align="center">
 
@@ -180,38 +218,36 @@ Flutter • Firebase
 # 📚 Currently Learning
 
 ```text
-██████████░░░░ Spring Boot          90%
+☕ Java              ████████████████████ 100%
 
-████████░░░░░ Docker               75%
+🌱 Spring Boot       ██████████████████░  90%
 
-███████░░░░░░ AWS                  65%
+⚛️ React            ████████████████░░  80%
 
-█████████░░░░ System Design        85%
+🗄️ MySQL            █████████████████░  85%
 
-██████████░░░ DSA                  90%
+🐳 Docker           ███████████░░░░░░░  60%
+
+☁️ AWS              ████████░░░░░░░░░░  45%
+
+🏗 System Design    ████████████░░░░░░  65%
 ```
 
 ---
 
-# 📅 2026 Goals
+# 🎯 2026 Goals
 
-✅ Master Spring Boot
-
-⬜ Learn Microservices
-
-⬜ Learn Kubernetes
-
-⬜ AWS Deployment
-
-⬜ 500+ DSA Problems
-
-⬜ Land Java Backend Role
-
-⬜ Open Source Contributions
+* ✅ Master Spring Boot
+* 🔄 Learn Microservices
+* 🔄 Master Docker
+* 🔄 Learn AWS
+* 🔄 Contribute to Open Source
+* 🔄 Solve 500+ DSA Problems
+* 🔄 Become a Java Backend Engineer
 
 ---
 
-# 🌍 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -227,60 +263,31 @@ Flutter • Firebase
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://skillicons.dev/icons?i=vercel"/>
+</a>
+
 </p>
 
 ---
 
-# ⚡ Fun Code
+# 💡 Developer Quote
 
-```java
-public class Life {
-
-    public static void main(String[] args) {
-
-        while(!success){
-
-            learn();
-
-            code();
-
-            debug();
-
-            improve();
-
-            repeat();
-
-        }
-
-    }
-
-}
-```
+> *"Every expert was once a beginner who refused to quit."*
 
 ---
 
-# 💜 Favorite Quote
-
-> "Great software isn't written in a day. It's built one commit at a time."
-
----
-
-<p align="center">
+<div align="center">
 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 
-</p>
+<br><br>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF,9D4EDD,C77DFF&height=120&section=footer"/>
 
-<p align="center">
+### ⭐ Thanks for visiting my profile! ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=8A2BE2"/>
+If you like my work, consider starring my repositories.
 
-</p>
-
-<p align="center">
-
-### ⭐ If you like my work, consider giving a star to my repositories!
-
-</p>
+</div>
+```
