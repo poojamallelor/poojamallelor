@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Java+Backend+Developer+%F0%9F%92%9C;Spring+Boot+%7C+REST+API+Developer;Final+Year+B.Tech+Student;Always+Learning+%E2%9C%A8+Always+Building+%F0%9F%9A%80" />
 </p>
-
+<p/>
 <div/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=8A2BE2&section=header"/>
