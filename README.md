@@ -1,101 +1,73 @@
-````md
-<div align="center">
+# 👋 Hi, I'm **Pooja Mallelor**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF,9D4EDD,C77DFF&height=220&section=header&text=Pooja%20Mallelor&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20React%20Developer&descAlignY=58"/>
-
-# 👋 Hi, I'm Pooja Mallelor
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;React+Developer;REST+API+Developer;Problem+Solver;AI+%26+ML+Enthusiast;Always+Learning+Something+New+🚀"/>
-
-<p>
-<img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge"/>
-<img src="https://komarev.com/ghpvc/?username=poojamallelor&style=for-the-badge&color=blueviolet"/>
-<img src="https://img.shields.io/github/followers/poojamallelor?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/poojamallelor?style=for-the-badge"/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Java+Backend+Developer+%F0%9F%92%9C;Spring+Boot+%7C+REST+API+Developer;Final+Year+B.Tech+Student;Always+Learning+%E2%9C%A8+Always+Building+%F0%9F%9A%80" />
 </p>
 
-</div>
+<p align="center">
 
----
+<img src="https://img.shields.io/github/followers/poojamallelor?style=for-the-badge&logo=github&color=8A2BE2"/>
 
-# 💜 About Me
+<img src="https://img.shields.io/github/stars/poojamallelor?style=for-the-badge&logo=github&color=7B68EE"/>
+
+<img src="https://komarev.com/ghpvc/?username=poojamallelor&style=for-the-badge&color=blueviolet"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge"/>
+
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=8A2BE2&section=header"/>
+
+# 💫 About Me
 
 ```java
-public class Pooja {
+class Developer {
+
+    String name = "Pooja Mallelor";
 
     String role = "Java Backend Developer";
 
     String education = "Final Year B.Tech Student";
 
-    String passion = "Building scalable backend applications";
-
-    String[] techStack = {
+    String[] skills = {
         "Java",
         "Spring Boot",
+        "JDBC",
+        "SQL",
         "React",
-        "REST APIs",
-        "MySQL",
-        "JDBC"
+        "REST APIs"
     };
 
-    void life(){
-
-        while(true){
-
-            learn();
-
-            build();
-
-            debug();
-
-            improve();
-
-        }
-
-    }
+    String goal = "Build scalable software that impacts millions.";
 
 }
-````
+```
 
-💜 Java Backend Developer passionate about designing scalable applications.
+## 🚀 Currently Working On
 
-🚀 Skilled in Java, Spring Boot, React, JDBC, REST APIs and MySQL.
-
-📚 Currently exploring Microservices, Docker, AWS and System Design.
-
-💡 I love solving real-world problems through technology.
-
-🎯 Looking for Software Engineer / Java Backend opportunities.
+* 🌱 Mastering Spring Boot
+* ☁️ Learning Docker & AWS
+* 📚 Data Structures & Algorithms
+* ⚡ Backend System Design
+* 💻 Building Full Stack Applications
 
 ---
 
-# 🛠 Tech Stack
+# 🏆 Achievements
 
-<div align="center">
+🥇 Winner — Build & Beyond Website Competition
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,html,css,js,git,github,maven,postman,docker,vscode,idea,python,firebase"/>
+🏆 Top 5 Finalist — GDG Hack-AI-Thon
 
-</div>
+📄 Published Research Paper
 
----
+💡 Patent Filed
 
-# ☕ Java Backend Skills
+🥈 NPTEL Programming in Java (Silver)
 
-<p align="center">
+🏅 NPTEL DBMS (Elite)
 
-<img src="https://img.shields.io/badge/Core%20Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JDBC-0A66C2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/REST%20API-8A2BE2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql"/>
-
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven"/>
-
-</p>
+⭐ HackerRank Java 5★
 
 ---
 
@@ -103,87 +75,89 @@ public class Pooja {
 
 ## 🧠 Learning Disability Detection System
 
-> AI-powered platform for detecting learning disabilities using machine learning and interactive assessment modules.
+Machine Learning based system for detecting learning disabilities using interactive assessment modules.
 
-**Tech:** React • Flask • Python • Machine Learning • SQL
+**Tech Stack**
+
+React • Flask • Python • SQL • Machine Learning
 
 ---
 
 ## 🤖 CareerPilot AI
 
-> AI-powered career guidance platform with resume analysis and interview preparation.
-
-**Tech:** React • AI • JavaScript
+AI-powered career guidance platform with resume analysis and interview preparation.
 
 ---
 
 ## 💳 Bank Management System
 
-> Full Stack Banking Application with authentication and secure database operations.
-
-**Tech:** Java • Spring Boot • MySQL • REST APIs
+Java • Spring Boot • REST APIs • MySQL
 
 ---
 
 ## 🛒 E-Commerce Backend
 
-> Backend application with JWT authentication, role-based access and REST APIs.
-
-**Tech:** Spring Boot • MySQL • JWT • REST APIs
+Spring Boot • JWT Authentication • REST APIs • MySQL
 
 ---
 
 ## 👩 Women Safety Application
 
-> Mobile application for emergency safety and live location sharing.
-
-**Tech:** Flutter • Firebase
+Flutter • Firebase
 
 ---
 
-# 🏆 Achievements
+# 💻 Tech Stack
 
-🏆 Top 5 Finalist — GDG Hack-AI-Thon
+<p align="center">
 
-🥇 Winner — Build & Beyond Website Competition
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,react,html,css,js,git,github,maven,docker,postman,idea,vscode,python,firebase"/>
 
-📄 Research Paper Published
-
-💡 Patent Filed
-
-⭐ HackerRank Java — 5★
+</p>
 
 ---
 
-# 📜 Certifications
+# ☕ Java Ecosystem
 
-🥈 NPTEL Programming in Java — Silver (Top 1%)
+<p align="center">
 
-🏅 NPTEL Database Management Systems — Elite
+<img src="https://img.shields.io/badge/Core%20Java-orange?style=for-the-badge"/>
 
-🎓 Generative AI Workshop
+<img src="https://img.shields.io/badge/OOP-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JDBC-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Servlet-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JSP-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Spring%20Boot-brightgreen?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST%20API-blueviolet?style=for-the-badge"/>
+
+</p>
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Statistics
 
 <p align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=poojamallelor&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=poojamallelor&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=poojamallelor&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojamallelor&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojamallelor&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -197,15 +171,13 @@ public class Pooja {
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=poojamallelor&theme=tokyonight&column=4&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=poojamallelor&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
 ---
 
 # 🐍 Contribution Snake
-
-> **After creating the GitHub Action, replace the link below with your generated snake image.**
 
 <p align="center">
 
@@ -218,36 +190,38 @@ public class Pooja {
 # 📚 Currently Learning
 
 ```text
-☕ Java              ████████████████████ 100%
+██████████░░░░ Spring Boot          90%
 
-🌱 Spring Boot       ██████████████████░  90%
+████████░░░░░ Docker               75%
 
-⚛️ React            ████████████████░░  80%
+███████░░░░░░ AWS                  65%
 
-🗄️ MySQL            █████████████████░  85%
+█████████░░░░ System Design        85%
 
-🐳 Docker           ███████████░░░░░░░  60%
-
-☁️ AWS              ████████░░░░░░░░░░  45%
-
-🏗 System Design    ████████████░░░░░░  65%
+██████████░░░ DSA                  90%
 ```
 
 ---
 
-# 🎯 2026 Goals
+# 📅 2026 Goals
 
-* ✅ Master Spring Boot
-* 🔄 Learn Microservices
-* 🔄 Master Docker
-* 🔄 Learn AWS
-* 🔄 Contribute to Open Source
-* 🔄 Solve 500+ DSA Problems
-* 🔄 Become a Java Backend Engineer
+✅ Master Spring Boot
+
+⬜ Learn Microservices
+
+⬜ Learn Kubernetes
+
+⬜ AWS Deployment
+
+⬜ 500+ DSA Problems
+
+⬜ Land Java Backend Role
+
+⬜ Open Source Contributions
 
 ---
 
-# 🌐 Connect With Me
+# 🌍 Connect With Me
 
 <p align="center">
 
@@ -263,31 +237,60 @@ public class Pooja {
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://skillicons.dev/icons?i=vercel"/>
-</a>
+</p>
+
+---
+
+# ⚡ Fun Code
+
+```java
+public class Life {
+
+    public static void main(String[] args) {
+
+        while(!success){
+
+            learn();
+
+            code();
+
+            debug();
+
+            improve();
+
+            repeat();
+
+        }
+
+    }
+
+}
+```
+
+---
+
+# 💜 Favorite Quote
+
+> "Great software isn't written in a day. It's built one commit at a time."
+
+---
+
+<p align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 💡 Developer Quote
+<p align="center">
 
-> *"Every expert was once a beginner who refused to quit."*
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=8A2BE2"/>
 
----
+</p>
 
-<div align="center">
+<p align="center">
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+### ⭐ If you like my work, consider giving a star to my repositories!
 
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF,9D4EDD,C77DFF&height=120&section=footer"/>
-
-### ⭐ Thanks for visiting my profile! ⭐
-
-If you like my work, consider starring my repositories.
-
-</div>
-```
+</p>
